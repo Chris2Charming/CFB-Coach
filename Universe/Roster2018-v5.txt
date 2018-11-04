@@ -150,7 +150,7 @@ Alabama,Scott Lashley,OL,2,8
 Alabama,Terrell Lewis,LB,3,8
 Alabama,Deonte Brown,OL,2,8
 Alabama,Lester Cotton,OL,4,9
-Alabama,Quinnen Williams,DL,2,8
+Alabama,Quinnen Williams,DL,2,10
 Alabama,Phidarian Mathis,DL,1,8
 Alabama,Cameron Latu,LB,1,8
 Alabama,Nigel Knott,CB,2,8
@@ -162,7 +162,7 @@ Alabama,Christopher Allen,LB,2,8
 Alabama,Skyler DeLong,K,1,8
 Alabama,Raekwon Davis,DL,3,10
 Alabama,Josh Jobe,CB,1,8
-Alabama,Matt Womack,OL,3,9
+Alabama,Matt Womack,OL,3,8
 Alabama,Christian Barmore,DL,1,8
 Alabama,Christian Miller,LB,4,8
 Alabama,Mack Wilson,LB,3,9
@@ -178,7 +178,7 @@ Alabama,Joseph Bulovas,K,1,8
 Alabama,Eyabi Anoma,LB,1,8
 Alabama,Patrick Surtain,CB,1,8
 Alabama,Irv Smith,TE,3,8
-Alabama,Tua Tagovailoa,QB,2,9
+Alabama,Tua Tagovailoa,QB,2,10
 Alabama,Stephon Wynn,DL,1,8
 Alabama,Kedrick James,TE,2,8
 Alabama,Isaiah Buggs,DL,4,9
@@ -4589,7 +4589,7 @@ Oklahoma,Marquise Overton,DL,4,9
 Oklahoma,Carson Meier,RB,4,8
 Oklahoma,Brey Walker,OL,1,8
 Oklahoma,Tramonda Moore,OL,3,8
-Oklahoma,Kyler Murray,QB,3,9
+Oklahoma,Kyler Murray,QB,3,10
 Oklahoma,Justin Broiles,S,1,8
 Oklahoma,Ronnie Perkins,DL,1,8
 Oklahoma,Ron Tatum,DL,1,8
